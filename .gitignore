@@ -6,4 +6,5 @@ lib64
 pip-selfcheck.json
 pyvenv.cfg
 share/
-
+programas/data/
+.ipynb_checkpoints/
