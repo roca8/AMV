@@ -8,3 +8,4 @@ pyvenv.cfg
 share/
 programas/data/
 .ipynb_checkpoints/
+programas/churn_final.pickle
