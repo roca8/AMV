@@ -6,6 +6,6 @@ lib64
 pip-selfcheck.json
 pyvenv.cfg
 share/
-programas/data/
+programas/data/chicago_taxi_trips_2016/
 .ipynb_checkpoints/
 programas/churn_final.pickle
